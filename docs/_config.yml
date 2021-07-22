@@ -1,0 +1,3 @@
+theme: jekyll-theme-slate
+title: tf2api
+description: A web API for parsing the Team Fortress 2 wiki and getting relevant information from it

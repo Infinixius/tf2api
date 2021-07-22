@@ -1,0 +1,26 @@
+{
+  "name": "tf2api",
+  "version": "1.0.0",
+  "description": "A web API for parsing the Team Fortress 2 wiki and getting relevant information from it.",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsdom": "^16.6.0",
+    "node-fetch": "^2.6.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index --use-env-port"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/infinixius/tf2api.git"
+  },
+  "author": "infinixius",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/infinixius/tf2api/issues"
+  },
+  "homepage": "https://github.com/infinixius/tf2api#readme"
+}
