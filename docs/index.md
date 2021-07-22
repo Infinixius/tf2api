@@ -18,7 +18,7 @@ If you have [git](https://git-scm.com) already, you can run `git clone https://g
 
 Finally, run `npm install` where the repository is to install all the NPM modules needed.
 
-Rename `config.template.json` to `config.json`. This is used for configuring the server and an explanation can be found `docs/Config.md` or at `https://infinixius.github.io/tf2api/Config.md`.
+Rename `config.template.json` to `config.json`. This is used for configuring the server and an explanation can be found `docs/Config.md` or at `https://infinixius.github.io/tf2api/Config`.
 
 # Reference
 
