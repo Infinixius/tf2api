@@ -1,3 +1,5 @@
+# ARCHIVED: I don't feel like actively working on this anymore. I might pick it up later if I think it serves any use, but feel free to fork it and continue working on it if you wish.
+
 # tf2api
 
 A web API for parsing the Team Fortress 2 wiki and getting relevant information from it.
